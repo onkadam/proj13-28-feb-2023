@@ -1,0 +1,13 @@
+
+main{
+    height: 700px;
+
+    border: 1px dashed green;
+}
+footer{
+    height: 200px;
+    border: 1px dashed red;
+}
+.o_tbdr{
+    border: 1px dashed green;
+}
